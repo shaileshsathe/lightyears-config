@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to LightYears accounts related prod APIs"
+  contactDetails:
+    name: "Rina Ray - Product Owner"
+    email: "rina@lightyears.com"
+  onCallSupport:
+    - (453)195-7382
+    - (235)123-8975
